@@ -1,0 +1,7 @@
+pplication programming interface (API) OpenMP (Open Multi-Processing) supports multi-platform shared-memory multiprocessing programming in C, C++, and Fortran,[3] on many platforms, instruction-set architectures and operating systems, including Solaris, AIX, HP-UX, Linux, macOS, and Windows. It consists of a set of compiler directives, library routines, and environment variables that influence run-time behavior.[2][4][5]
+
+OpenMP is managed by the nonprofit technology consortium OpenMP Architecture Review Board (or OpenMP ARB), jointly defined by a broad swath of leading computer hardware and software vendors, including Arm, AMD, IBM, Intel, Cray, HP, Fujitsu, Nvidia, NEC, Red Hat, Texas Instruments, and Oracle Corporation.[1]
+
+OpenMP uses a portable, scalable model that gives programmers a simple and flexible interface for developing parallel applications for platforms ranging from the standard desktop computer to the supercomputer.
+
+An application built with the hybrid model of parallel programming can run on a computer cluster using both OpenMP and Message Passing Interface (MPI), such that OpenMP is used for parallelism within a (multi-core) node while MPI is used for parallelism between nodes. There have also been efforts to run OpenMP on software distributed shared memory systems,[6] to translate OpenMP into MPI[7][8] and to extend OpenMP for non-shared memory systems.[9]
